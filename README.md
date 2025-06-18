@@ -14,7 +14,7 @@ Le système expérimental est composé des éléments suivants :
 5. Un encodeur ou un tachymètre pour mesurer la vitesse du câble (non fonctionnel également)
 6. Un système d'acquisition de données pour enregistrer les mesures (via un arduino, communiquant sur le port serie, à terme cet Arduino communiquera en I2C avec les reste du système)
 
-![Montage Expérimental](images/experimental_setup.jpg)
+![Montage Expérimental](images/experimental_setup.png)
 
 ## Composants Principaux
 
